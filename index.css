@@ -4,7 +4,7 @@
 }
 /* codding for background */
 .background{
-    background-image:linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('https://github.com/Ahsan-Nazir-bot/university-web-design/blob/main/banner.png');
+    background-image:linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url("https://github.com/Ahsan-Nazir-bot/university-web-design/blob/main/banner.png");
     background-position: center;
     background-size: cover;
     position: relative;
